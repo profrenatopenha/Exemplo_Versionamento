@@ -1,6 +1,3 @@
 Nome: Renato
 email: renato.penha.12@gmail.com
 Telefone: 11.9876-7765
-RA: 1234566888
-Aula dia 02/04/2020
-matéria
